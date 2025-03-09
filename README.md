@@ -1,13 +1,14 @@
 ## Hi there 👋
 ## Career 
-비젠소프트 2024.11.04 ~ Present
+비젠소프트 2024.11.04 ~ Present (JAVA, JSP)
 
 ## Algorithm
 
 ## Certificate
-### 1. SQLD
-### 2. 정보처리기사 (필기 합격)
+1. SQLD
+2. 정보처리기사 (필기 합격)
 ## Blog
+[https://dlwlsdn9633.blog](https://dlwlsdn9633.blogspot.com/)
 
 <!--
 **dlwlsdn9633/dlwlsdn9633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
