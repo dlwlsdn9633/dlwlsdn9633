@@ -8,7 +8,7 @@
 1. SQLD
 2. 정보처리기사 (필기 합격)
 ## Blog
-[https://dlwlsdn9633.blog](https://dlwlsdn9633.blogspot.com/)
+> [https://dlwlsdn9633.blog](https://dlwlsdn9633.blogspot.com/)
 
 <!--
 **dlwlsdn9633/dlwlsdn9633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
