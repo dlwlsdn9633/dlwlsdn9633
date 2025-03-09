@@ -1,4 +1,10 @@
 ## Hi there 👋
+# Career 
+비젠소프트 2024.11.04 ~ Present
+
+# Algorithm
+
+# Certificate
 
 <!--
 **dlwlsdn9633/dlwlsdn9633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
