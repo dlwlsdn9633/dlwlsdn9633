@@ -3,7 +3,7 @@
 비젠소프트 2024.11.04 ~ Present (JAVA, JSP)
 
 ## Algorithm
-https://mazandi.herokuapp.com/api?handle=dlwlsdn9633&theme=warm
+<img src="https://mazandi.herokuapp.com/api?handle=dlwlsdn9633&theme=warm" />
 ## Certificate
 1. SQLD
 2. 정보처리기사 (필기 합격)
