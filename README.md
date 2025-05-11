@@ -10,7 +10,7 @@
 2. 정보처리기사 (필기 합격)
 
 ## Toy Projects
-1. hpms (대학교 부서 관리 시스템) 2023.07.20 [Github Link](https://github.com/dlwlsdn9633/management.system)
+1. hpms (대학교 부서 관리 시스템) 2023.07.20 - [Github Link](https://github.com/dlwlsdn9633/management.system)
 2. ntrophy (게임 전적 및 커뮤니티 사이트) - 진행중
 
 <!--
