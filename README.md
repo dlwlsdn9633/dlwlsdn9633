@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## Career 
-비젠소프트 2024.11.04 ~ Present (JAVA, JSP)
+비젠소프트 2024.11.04 ~ Present (JAVA, JSP, JQuery)
 
 ## Algorithm
 <img src="https://mazandi.herokuapp.com/api?handle=dlwlsdn9633&theme=warm" />
