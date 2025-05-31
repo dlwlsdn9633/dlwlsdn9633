@@ -10,8 +10,8 @@
 2. 정보처리기사 (필기 합격)
 
 ## Toy Projects
-1. hpms (대학교 부서 관리 시스템) 2025.05.11 - [Github Link](https://github.com/dlwlsdn9633/management.system)
-2. ntrophy (게임 전적 및 커뮤니티 사이트) - 진행중
+1. hpms (대학교 부서 관리 시스템) 
+2. ntrophy (게임 전적 및 커뮤니티 사이트) 
 
 <!--
 **dlwlsdn9633/dlwlsdn9633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
