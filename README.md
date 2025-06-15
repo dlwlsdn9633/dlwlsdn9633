@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## Algorithm
+<img src="https://mazandi.herokuapp.com/api?handle=dlwlsdn9633&theme=warm" />
+
+## Certificate
+1. SQLD
+2. 정보처리기사
+
 ## 📌 Career
 
 ### 비젠소프트 (2024.11.04 ~ Present)
@@ -79,14 +86,6 @@
 **주요 업무 및 성과:**
 - 사용자의 콘텐츠 분류 및 관리 기능(개인 카테고리) 구현
 - KG 이니시스 결제 모듈을 광고 신청 및 이용권 구매에 연동
-
-
-## Algorithm
-<img src="https://mazandi.herokuapp.com/api?handle=dlwlsdn9633&theme=warm" />
-
-## Certificate
-1. SQLD
-2. 정보처리기사 (필기 합격)
 
 ## Toy Projects
 1. hpms (대학교 부서 관리 시스템) 
