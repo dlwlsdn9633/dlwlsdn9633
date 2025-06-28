@@ -10,7 +10,7 @@
 ## 📌 Career
 
 ### 비젠소프트 (2024.11.04 ~ Present)
-- **기술 스택:** `Java`, `JSP`, `jQuery`
+- **기술 스택:** `Java`, `JSP`, `Jquery`, `MyBatis`, `MySQL`, `MariaDB`
 
 #### 🛠️ 프로젝트 이력 및 주요 기여
 
@@ -18,7 +18,7 @@
 
 ##### 1. 위드앤미 – 글로벌 결제 연동 및 오디오 시각화 기능 구현
 - **기간:** 2024.12 ~ 2025.01  
-- **기술 스택:** `Java`, `JSP`, `JavaScript (waveform.js)`  
+- **기술 스택:** `Java`, `JSP`, `JavaScript (waveform.js)`, `Jquery`, `MyBatis`, `MariaDB`
 - **담당 역할:** 백엔드 개발 및 유지보수
 - **사이트 주소:** https://www.666production.com/
 
@@ -32,20 +32,19 @@
 
 ##### 2. 민영상사 – Global-E 결제 모듈 연동 및 데이터 마이그레이션
 - **기간:** 2025.01 ~ 2025.02  
-- **기술 스택:** `Java`, `JSP`, `Python`  
+- **기술 스택:** `Java`, `JSP`, `Python`, `Jquery`, `MyBatis`, `MariaDB`
 - **담당 역할:** 백엔드 개발 및 유지보수
 - **사이트 주소:** https://minyoungcorp.vizensoft.com/
 
 **주요 업무 및 기여 내용:**
 - Global-E 해외 결제 모듈 연동 및 결제 흐름 안정화
-- Python 기반 제품 데이터 DB 마이그레이션 스크립트 작성
-- 결제 관련 기능 유지보수 및 개선 작업 담당
+- Python 기반 제품 데이터 CSV TO DB 마이그레이션 스크립트 작성
 
 ---
 
 ##### 3. 대광기업 – Google Text-To-Speech API 연동
 - **기간:** 2024.12  
-- **기술 스택:** `Java`, `JSP`  
+- **기술 스택:** `Java`, `JSP`, `Jquery`, `MyBatis`, `MariaDB`
 - **담당 역할:** 백엔드 개발 및 유지보수
 - **사이트 주소:** https://www.xn--on3b17foxgm0a.com/?no=7
 
@@ -57,7 +56,7 @@
 
 ##### 4. 은성글로벌 / 한국전력소자산업 – 수강 신청 기능 개발
 - **기간:** 2024.11  
-- **기술 스택:** `Java`, `JSP`  
+- **기술 스택:** `Java`, `JSP`, `Jquery`, `MyBatis`, `MariaDB`
 - **담당 역할:** 백엔드 개발 및 유지보수
 - **사이트 주소:** https://www.cellmula-pro.com/
 - **사이트 주소:** https://www.kpdia.or.kr/
@@ -70,7 +69,7 @@
 
 ##### 5. 비젠소프트 – 사이트 고도화 및 유지보수
 - **기간:** 2024.11 ~ 현재  
-- **기술 스택:** `Java`, `JSP`, `JavaScript`, `Python`, `Naver Cloud OCR`, `네이버 지도 API`  
+- **기술 스택:** `Java`, `JSP`, `JavaScript`, `Python`, `Naver Cloud OCR`, `네이버 지도 API`, `MyBatis`, `MariaDB`
 - **담당 역할:** 백엔드 개발 및 유지보수
 - **사이트 주소:** https://programj02.vizensoft.com/
 - **사이트 주소:** https://shopj02.vizensoft.com/
@@ -79,9 +78,10 @@
 
 **주요 업무 및 성과:**
 - 쇼핑몰 상품 추가, 네이버 로그인 및 페이 연동 기능 구현
-- 블로그 모듈, 온라인 상담 및 댓글 시스템 개발
+- 블로그 모듈, 온라인 상담 및 댓글/대댓글 시스템 개발
 - 네이버 지도 API 연동 및 지역 이동 기능 구현
 - 비젠 소프트, 비젠 메디컬에 블로그 기능 추가 및 업무 보고 프로그램과 연동
+- 비젠 소프트, 비젠 메디컬에 상담 문의 기능을 채널톡에서 카카오톡으로 변경
 - Java Timer 기반 서비스 연장 안내 메일 자동 발송 시스템 개발
 - 쿠팡/네이버 상세 페이지 크롤링 및 OCR 이미지 데이터 추출 도구 개발
 - 전사 시스템 유지보수 및 기능 개선 주도
